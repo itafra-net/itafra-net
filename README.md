@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">it's itafra company </div>  
+### <div align="center">it's itAfra company </div>  
   
 
 - 💼 We working in the field of  on network and programming  
